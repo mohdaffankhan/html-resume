@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: "Times New Roman", serif;
+    background: #ffffff;
+    color: #000;
+    line-height: 1.4;
+  }
+  
+  .resume {
+    width: 800px;
+    margin: 40px auto;
+  }
+  
+  .resume-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .resume-header h1 {
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .contact {
+    font-size: 14px;
+  }
+  
+  .contact a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  section {
+    margin-top: 18px;
+  }
+  
+  h2 {
+    font-size: 16px;
+    border-bottom: 1px solid #000;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+  }
+  
+  .entry {
+    margin-bottom: 12px;
+  }
+  
+  .entry-header,
+  .entry-sub {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+  }
+  
+  .entry-sub {
+    font-style: italic;
+  }
+  
+  p,
+  li {
+    font-size: 14px;
+  }
+  
+  ul {
+    padding-left: 18px;
+  }
+  
+  .skills li {
+    list-style: none;
+    margin-bottom: 4px;
+  }
+  
+  .tech {
+    font-style: italic;
+    margin-bottom: 4px;
+  }
+  
