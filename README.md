@@ -15,8 +15,8 @@ Simply open `index.html` in any modern browser.
 - Resume-friendly typography
 
 ## Screenshots
-![Resume](screenshots/screenshot.png)
+![Resume](screenshot/screenshot.png)
 
 ## Live Demo
-[View Live Resume](https://mohdaffankhan.github.io/resume-html/)
+[View Live Resume](https://mohdaffankhan.github.io/html-resume/)
 
